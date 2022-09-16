@@ -7,7 +7,7 @@ ul {
     list-style: none;
 }
 body {
-    background-image: url(./assets/Fundo.jpg);
+    background-image: url(./assets/novovfundo.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body {
 }
 
 body * {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 160%;
 }
 header {
@@ -29,7 +29,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 50.52%, #e2d45c 100%);
+    background-image: linear-gradient(90deg, #f7033c 0%, #1abbec 100%);
     border-radius: 50%;
     display: flex;
     padding: 4px;
@@ -56,8 +56,9 @@ main {
 
 section {
     color: white;
-    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 50.52%, #e2d45c 100%);
+    background-image: linear-gradient(90deg, #f7033c 0%, #1abbec 100%);
     padding-top: 4px;
+    padding-left: 4px;
     border-radius: 10px;
 
 }
@@ -94,12 +95,13 @@ section ul li:hover {
 .games-list img {
     width: 90px;
     border-radius: 8px;
+    border: 2px solid white;
 }
 
 .channel-list img {
-    width: 70px;
-    border-radius: 70px;
-    border: 2px solid #443e54;
+    width: 90px;
+    border-radius: 8px;
+    border: 2px solid white;
 }
 
 header div {
