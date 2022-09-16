@@ -13,4 +13,5 @@ Projeto construido no evento Next Level Weelk (NLW) da Rocktseat.
 
 - HTML
 - CSS
-- Git e Github
+- Git  
+- Github
